@@ -68,7 +68,7 @@ Web Development projects.
 * [Введение в архитектуру ЭВМ](https://stepik.org/course/253/syllabus)
 * [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
 * [The Rolling Scopes School](https://school.rollingscopes.com/)
-* [Salesforce Developrer Course](https://vrpconsulting.by/learning/)
+* [Salesforce Developer Course](https://vrpconsulting.by/learning/)
 
 **Сode examples**:
 
@@ -87,4 +87,4 @@ Web Development projects.
 
 **CV**:
 
-    [Profile on jobs.tut.by](https://gomel.jobs.tut.by/resume/064ff034ff05e85c6d0039ed1f5475666f6738)
+[Profile on jobs.tut.by](https://gomel.jobs.tut.by/resume/064ff034ff05e85c6d0039ed1f5475666f6738)
