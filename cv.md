@@ -50,18 +50,18 @@ Web Development projects.
 		
 **Electronic certificates**:
 
-    [The Complete JavaScript Course] (https://www.udemy.com/certificate/UC-QT0R53K2/)
-    [Web Design for Web Developers] (https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)
-    [The Rolling Scopes School] (https://app.rs.school/certificate/i6ddk8nx)
+    [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-QT0R53K2/)
+    [Web Design for Web Developers](https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)
+    [The Rolling Scopes School](https://app.rs.school/certificate/i6ddk8nx)
 
 **Courses**:
 
-    [JavaScript для начинающих] (https://stepik.org/course/2223/syllabus)
-    [Web-технологии] (https://stepik.org/course/154/syllabus)
-    [Введение в архитектуру ЭВМ] (https://stepik.org/course/253/syllabus)
-    [Version Control with Git] (https://www.coursera.org/learn/version-control-with-git)
-    [The Rolling Scopes School] (https://school.rollingscopes.com/)
-    [Salesforce Developrer Course] (https://vrpconsulting.by/learning/)
+    [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
+    [Web-технологии](https://stepik.org/course/154/syllabus)
+    [Введение в архитектуру ЭВМ](https://stepik.org/course/253/syllabus)
+    [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+    [The Rolling Scopes School](https://school.rollingscopes.com/)
+    [Salesforce Developrer Course](https://vrpconsulting.by/learning/)
 
 **Technical skills**:   
 
@@ -72,19 +72,19 @@ Web Development projects.
 
 **Сode examples**:
 
-    Chat (2019) - [Project] (http://morning-fjord-26583.herokuapp.com/)
-    First React Project (2019) - [Project] (https://jarolika30.github.io/monsters-react-from-udemy/)
-    Piskel Clone (2019) - [Project] (https://jarolika30.github.io/pixel/)
-    Youtube client (2019) - [Project] (https://jarolika30.github.io/youtube-client/)
-    Presentation Task (2019) - [Project] (https://www.youtube.com/watch?v=hAYAByxbmMY&feature=youtu.be)
-    Book Service (2018) - [Github] (https://github.com/jarolika30/startMatterTask)
-    Game Gallows (2017) - [Project] (https://determined-mahavira-4343b5.netlify.com/)
+    Chat (2019) - [Project](http://morning-fjord-26583.herokuapp.com/)
+    First React Project (2019) - [Project](https://jarolika30.github.io/monsters-react-from-udemy/)
+    Piskel Clone (2019) - [Project](https://jarolika30.github.io/pixel/)
+    Youtube client (2019) - [Project](https://jarolika30.github.io/youtube-client/)
+    Presentation Task (2019) - [Project](https://www.youtube.com/watch?v=hAYAByxbmMY&feature=youtu.be)
+    Book Service (2018) - [Github](https://github.com/jarolika30/startMatterTask)
+    Game Gallows (2017) - [Project](https://determined-mahavira-4343b5.netlify.com/)
  
 **English and German**: 
 
-    English -  A2+ (I can read and understand technical literature, take courses in English)
-    German - B1
+    English - A2+ (I can read and understand technical literature, take courses in English)
+    German  - B1
 
 **CV**:
 
-    [Profile on jobs.tut.by] (https://gomel.jobs.tut.by/resume/064ff034ff05e85c6d0039ed1f5475666f6738)
+    [Profile on jobs.tut.by](https://gomel.jobs.tut.by/resume/064ff034ff05e85c6d0039ed1f5475666f6738)
