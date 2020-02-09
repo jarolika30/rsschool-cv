@@ -47,21 +47,6 @@ Web Development projects.
 
     German teacher in Dobrush School № 2 (16.08.2010 – 30.01.2016)
     Salesforce Laboratory at Success Craft  company (Oktober, 2019 - now)
-		
-**Electronic certificates**:
-
-    [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-QT0R53K2/)
-    [Web Design for Web Developers](https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)
-    [The Rolling Scopes School](https://app.rs.school/certificate/i6ddk8nx)
-
-**Courses**:
-
-    [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
-    [Web-технологии](https://stepik.org/course/154/syllabus)
-    [Введение в архитектуру ЭВМ](https://stepik.org/course/253/syllabus)
-    [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
-    [The Rolling Scopes School](https://school.rollingscopes.com/)
-    [Salesforce Developrer Course](https://vrpconsulting.by/learning/)
 
 **Technical skills**:   
 
@@ -70,15 +55,30 @@ Web Development projects.
     jQuery, NodeJS, MS SQL Server, MongoDB, PGSQL
     git, Salesforce, Java, Servlet and JSP-Technologies  
 
+**Electronic certificates**:
+
+* [The Complete JavaScript Course](https://www.udemy.com/certificate/UC-QT0R53K2/)
+* [Web Design for Web Developers](https://www.udemy.com/certificate/UC-5ZAJZ3ZG/)
+* [The Rolling Scopes School](https://app.rs.school/certificate/i6ddk8nx)
+
+**Courses**:
+
+* [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
+* [Web-технологии](https://stepik.org/course/154/syllabus)
+* [Введение в архитектуру ЭВМ](https://stepik.org/course/253/syllabus)
+* [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+* [The Rolling Scopes School](https://school.rollingscopes.com/)
+* [Salesforce Developrer Course](https://vrpconsulting.by/learning/)
+
 **Сode examples**:
 
-    Chat (2019) - [Project](http://morning-fjord-26583.herokuapp.com/)
-    First React Project (2019) - [Project](https://jarolika30.github.io/monsters-react-from-udemy/)
-    Piskel Clone (2019) - [Project](https://jarolika30.github.io/pixel/)
-    Youtube client (2019) - [Project](https://jarolika30.github.io/youtube-client/)
-    Presentation Task (2019) - [Project](https://www.youtube.com/watch?v=hAYAByxbmMY&feature=youtu.be)
-    Book Service (2018) - [Github](https://github.com/jarolika30/startMatterTask)
-    Game Gallows (2017) - [Project](https://determined-mahavira-4343b5.netlify.com/)
+* Chat (2019) - [Project](http://morning-fjord-26583.herokuapp.com/)
+* First React Project (2019) - [Project](https://jarolika30.github.io/monsters-react-from-udemy/)
+* Piskel Clone (2019) - [Project](https://jarolika30.github.io/pixel/)
+* Youtube client (2019) - [Project](https://jarolika30.github.io/youtube-client/)
+* Presentation Task (2019) - [Project](https://www.youtube.com/watch?v=hAYAByxbmMY&feature=youtu.be)
+* Book Service (2018) - [Github](https://github.com/jarolika30/startMatterTask)
+* Game Gallows (2017) - [Project](https://determined-mahavira-4343b5.netlify.com/)
  
 **English and German**: 
 
