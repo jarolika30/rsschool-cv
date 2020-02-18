@@ -1,0 +1,214 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+header {
+  position: relative;
+  padding-bottom: 20px;
+}
+
+header:before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  border-width: 0 0 26px 26px;
+  border-style: solid;
+  border-color: #c2c0c4 #ffffff;
+}
+  
+body {
+	width: 100%;
+	font-size: 16px;    
+  text-align: justify;
+  background: #393b4f;
+}
+
+p span {
+	display: block;
+  margin-right: 30px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+a {
+  display: block;
+  color: #303149;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #4c8cb2;
+}
+
+h2 { 
+  margin: 10px 0 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.about h2 {
+  margin-bottom: 14px;
+}
+
+.about p, 
+.about h2 {
+  text-indent: 10px;
+}
+
+.about strong {
+  font-weight: bold;
+  font-style: italic;
+  color: #303149;;
+  text-shadow: 1px 0 0 #ffffff;
+  background: none;
+}
+
+.all {
+  margin: 0 auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 15px;
+  padding-bottom: 25px;
+  max-width: 1024px;
+  color: #303149;
+  background: #dad9dc;
+}
+
+.all.shadow {
+  box-shadow:
+  -1px 0px rgb(48, 49, 73), -1px 1px rgb(50, 50, 74),
+  -2px 1px rgb(47, 49, 73), -2px 2px rgb(49, 50, 74),
+  -3px 2px rgb(46, 49, 73), -3px 3px rgb(48, 50, 74),
+  -4px 3px rgb(45, 49, 72), -4px 4px rgb(47, 50, 74),
+  -5px 4px rgb(45, 49, 72), -5px 5px rgb(46, 50, 74),
+  -6px 5px rgb(45, 49, 72), -6px 6px rgb(45, 50, 74),
+  -7px 6px rgb(45, 49, 73), -7px 7px rgb(45, 50, 74),
+  -8px 7px rgb(45, 49, 72), -8px 8px rgb(45, 50, 74);
+}
+
+.contacts {
+  margin-top: 40px;
+  margin-left: 15px;
+  min-height: 100px;
+  width: 40%;
+}
+
+.contacts a {
+  color: #5e708a;
+}
+
+.contacts a:hover {
+  display: block;
+  height: 30px;
+  color: #4c8cb2;  
+  border-radius: 10px; 
+}
+
+.img {
+  margin-right: 5px;
+}
+
+.img-left {
+  margin-left: -6px;
+  margin-bottom: -5px;
+}
+
+.flex-child {
+  width: 45%;
+  margin-bottom: 15px;
+}
+
+.main {
+	display: flex;
+	padding: 5px 5px;
+	width: 90%;
+	margin: auto;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.rhomb {
+  display: block;
+	float: right;
+	width: 150px;
+  height: 150px;
+  margin-top: -10px;
+	margin-right: 50px;
+	background: #4c8cb2;
+	box-shadow: 0 0 7px rgb(61, 113, 143);
+  transform: rotate(45deg);
+}
+
+.picture {
+  position: relative;
+  overflow: hidden;
+  background: url(resume.jpg);
+}
+
+.picture::after {
+  content: "";
+  position: absolute;
+  top: -52px;
+  left: -5px;
+  width: 240px;
+  height: 240px;
+  background: inherit;
+  transform: rotate(-45deg);
+}
+
+.person h1 {
+  font-size: 34px;
+  text-align: center;
+}
+
+@media screen and (max-width: 580px) {
+    
+  .rhomb {
+		width: 130px;
+    height: 130px;
+    margin-top: 30px;
+    margin-right: 50px;
+  }
+    
+  .picture::after {
+    top: -65px;
+    left: -15px;
+    width: 240px;
+    height: 240px;
+  }
+
+  .person h1 {
+    font-size: 24px;
+  }
+
+  a {
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .contacts {
+    width: 50%;
+  }
+
+  .flex-child {
+		width: 80%;
+  }
+
+  .flex-child a{
+    font-size: 18px;
+  }
+
+}
